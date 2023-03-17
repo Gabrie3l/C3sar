@@ -1,1 +1,44 @@
 
+fun main() {
+    
+    /*var sorvete = 0
+  while (sorvete <= 10){
+        println(sorvete)
+        sorvete++
+    }
+    
+    
+    var gelo = 0
+    
+    do{
+        println(gelo)
+        gelo++
+        
+    }while (gelo > 10)*/
+    
+  //Exercicio
+  //
+  //exiba a porcentagem da bateria descarregando no console
+  //chegou nos 15 aparece um aviso
+  //chegou a 0 descarregou
+
+/*ar bateria = 100
+  while (bateria > 0){
+        println("${bateria}%")
+        bateria--
+      if(bateria == 14)
+  println("bateria descarregando")
+  else if (bateria == 0)
+  println("desligando em 3...2...1")}
+  }
+ // for..para
+for (churrasco in 0..10)
+println(churrasco)
+*/
+
+    
+   for(vapo in 0..10){
+       println("${vapo}x16 = ${vapo*16}")
+   }
+}
+   
